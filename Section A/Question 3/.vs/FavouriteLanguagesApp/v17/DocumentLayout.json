@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C3447-DD9F-4FD6-AD4D-ED65837777D1}|FavouriteLanguagesApp\\FavouriteLanguagesApp.csproj|c:\\users\\toshiba\\source\\repos\\favouritelanguagesapp\\favouritelanguagesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F6C3447-DD9F-4FD6-AD4D-ED65837777D1}|FavouriteLanguagesApp\\FavouriteLanguagesApp.csproj|solutionrelative:favouritelanguagesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6C3447-DD9F-4FD6-AD4D-ED65837777D1}|FavouriteLanguagesApp\\FavouriteLanguagesApp.csproj|C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\favouritelanguagesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6C3447-DD9F-4FD6-AD4D-ED65837777D1}|FavouriteLanguagesApp\\FavouriteLanguagesApp.csproj|solutionrelative:favouritelanguagesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\FavouriteLanguagesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FavouriteLanguagesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\FavouriteLanguagesApp\\Form1.cs",
+              "RelativeToolTip": "FavouriteLanguagesApp\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAm5mZmZkdwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:43:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\FavouriteLanguagesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "FavouriteLanguagesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\FavouriteLanguagesApp\\FavouriteLanguagesApp\\Form1.cs [Design]",
+              "RelativeToolTip": "FavouriteLanguagesApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:40:33.965Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\bin\Debug\SimpleATM.exe.config
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\bin\Debug\SimpleATM.exe
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\bin\Debug\SimpleATM.pdb
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\obj\Debug\SimpleATM.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\obj\Debug\SimpleATM.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\obj\Debug\SimpleATM.exe
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\obj\Debug\SimpleATM.pdb
+C:\Users\Toshiba\source\repos\SimpleATM\SimpleATM\obj\Debug\SimpleATM.exe.config

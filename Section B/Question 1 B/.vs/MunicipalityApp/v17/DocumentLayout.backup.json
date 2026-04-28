@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|c:\\users\\toshiba\\source\\repos\\municipalityapp\\municipalityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|solutionrelative:municipalityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\municipalityapp\\utilitiesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|solutionrelative:municipalityapp\\utilitiesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\municipalityapp\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|solutionrelative:municipalityapp\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\municipalityapp\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89815081-54E1-4AF7-8F2B-96C7F10665D3}|MunicipalityApp\\MunicipalityApp.csproj|solutionrelative:municipalityapp\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\Resident.cs",
+              "RelativeDocumentMoniker": "MunicipalityApp\\Resident.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\Resident.cs",
+              "RelativeToolTip": "MunicipalityApp\\Resident.cs",
+              "ViewState": "AgIAAAEAAAAgMzMzM/MnwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:46:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "MunicipalityApp\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\ServiceRequest.cs",
+              "RelativeToolTip": "MunicipalityApp\\ServiceRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwvREAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:45:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtilitiesManager.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\UtilitiesManager.cs",
+              "RelativeDocumentMoniker": "MunicipalityApp\\UtilitiesManager.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\UtilitiesManager.cs",
+              "RelativeToolTip": "MunicipalityApp\\UtilitiesManager.cs",
+              "ViewState": "AgIAABQAAABAAAAAAIAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:44:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\Program.cs",
+              "RelativeDocumentMoniker": "MunicipalityApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\MunicipalityApp\\MunicipalityApp\\Program.cs",
+              "RelativeToolTip": "MunicipalityApp\\Program.cs",
+              "ViewState": "AgIAACcAAACgMzMzMzMqwDUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:41:33.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\obj\Debug\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\obj\Debug\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\bin\Debug\StudentResultsApp.exe.config
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\bin\Debug\StudentResultsApp.exe
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\bin\Debug\StudentResultsApp.pdb
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\obj\Debug\StudentResultsApp.exe
+C:\Users\Toshiba\source\repos\StudentResultsApp\StudentResultsApp\obj\Debug\StudentResultsApp.pdb

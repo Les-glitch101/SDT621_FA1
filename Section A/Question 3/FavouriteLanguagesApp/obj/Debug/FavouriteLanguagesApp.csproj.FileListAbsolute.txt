@@ -1,0 +1,11 @@
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\FavouriteLanguagesApp.exe.config
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\FavouriteLanguagesApp.exe
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\bin\Debug\FavouriteLanguagesApp.pdb
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.Form1.resources
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.exe
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.pdb
+C:\Users\Toshiba\source\repos\FavouriteLanguagesApp\FavouriteLanguagesApp\obj\Debug\FavouriteLanguagesApp.exe.config
